@@ -15,7 +15,8 @@ I’m a dedicated and curious cybersecurity enthusiast with a strong foundation 
 ## Portfolio Highlights
 Here’s a glimpse of the work I’ve done to develop my cybersecurity expertise:
 
-- Professional Statement: [Link to your statement or embed it].
+- Professional Statement: <a href="https://docs.google.com/document/d/1KEkqriDetyLSlCW427_nvP6W0QbgKH6d/edit?usp=sharing&ouid=106711427863218664891&rtpof=true&sd=true" target="_blank">View my Professional Statement</a>
+
 - Security Audit Reports: Detailed findings and recommendations from simulated security audits.
 - Network Analysis: Case studies showcasing secure network designs.
 - Incident Documentation: Realistic incident handler journal entries and mitigation plans.
