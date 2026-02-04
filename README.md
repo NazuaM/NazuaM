@@ -1,27 +1,43 @@
-# Hello, I'm Nazua 
+# Hello, I'm Nazua
+
 <a href="https://www.linkedin.com/in/nazwam/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Passionate about protecting systems, mitigating risks, and solving real-world security challenges.
+Passionate about building functional, user-friendly software and analyzing data to extract insights.
 
 ## About Me
-I’m a dedicated and curious cybersecurity enthusiast with a strong foundation in network concepts and practical experience in identifying vulnerabilities, analyzing risks, and securing sensitive data. My passion for cybersecurity stems from my commitment to ethical practices and a fascination with solving complex problems in a constantly evolving digital landscape.
+
+I’m a dedicated and curious software enthusiast with hands-on experience in **frontend development**, **data analysis**, and **machine learning**. I enjoy creating clean interfaces, working with datasets, and solving real-world problems with code. My approach emphasizes clarity, usability, and practical impact.
 
 ## Core Skills
-- Network Analysis & Security: Skilled in auditing network infrastructures and identifying potential vulnerabilities.
-- Cybersecurity Tools: Proficient with Linux commands, incident reporting tools, and basic SQL for database security.
-- Risk Mitigation: Adept at designing security measures to safeguard assets and prevent unauthorized access.
-- Programming Knowledge: Familiar with Python scripting for automating security tasks.
+
+* **Frontend Development:** React, JavaScript, HTML5, CSS3, Tailwind CSS
+* **Data Analysis & Visualization:** Python (pandas, matplotlib), Tableau
+* **Machine Learning:** Python (scikit-learn), basic predictive modeling
+* **Tools & Practices:** Git/GitHub, Vite, ESLint, responsive design
 
 ## Portfolio Highlights
-Here’s a glimpse of the work I’ve done to develop my cybersecurity expertise:
 
-- Professional Statement: <a href="https://docs.google.com/document/d/1KEkqriDetyLSlCW427_nvP6W0QbgKH6d/edit?usp=sharing&ouid=106711427863218664891&rtpof=true&sd=true" target="_blank">View my Professional Statement</a>
+Here’s a glimpse of projects demonstrating my software and data skills:
 
-- Security Audit Reports: Detailed findings and recommendations from simulated security audits.
-- Network Analysis: Case studies showcasing secure network designs.
-- Incident Documentation: Realistic incident handler journal entries and mitigation plans.
-- SQL Queries for Security: Examples of applying filters to secure databases.
+* **Ajman Economic Growth – Data Visualization:** <br>
+  1st Place – Ajman Data Visualization Challenge 2025. Interactive dashboards analyzing business growth, trade flows, and sustainability.
+  🔗 <a href="https://github.com/NazuaM/ajman-data-visualization-2025" target="_blank">View on GitHub</a>
+
+* **Binder – Landing Page:** <br>
+  Modern, responsive marketing site built with React and Tailwind CSS, emphasizing layout, component design, and clean UI.
+  🔗 <a href="https://github.com/NazuaM/binder-landing" target="_blank">View on GitHub</a>
+
+* **Crop Prediction Model:** <br>
+  Machine learning model predicting suitable crops based on soil nutrient data. Includes preprocessing, model training, and evaluation in Python.
+  🔗 <a href="https://github.com/NazuaM/crop-prediction-project" target="_blank">View on GitHub</a>
+
+* **Pomodoro Timer:** <br>
+  Minimal, responsive Pomodoro timer with circular progress animation and notification alerts. Built with vanilla HTML, CSS, and JavaScript.
+  🔗 <a href="https://github.com/NazuaM/pomodoro-timer" target="_blank">View on GitHub</a>
+
 ## My Values
-- Ethics First: Upholding confidentiality, integrity, and privacy in every task.
-- Continuous Learning: Always expanding my skill set to stay ahead of evolving threats.
-- Team Collaboration: Striving to contribute to collective organizational security goals.
+
+* **Quality & Clarity:** Writing clean, maintainable code and building intuitive interfaces
+* **Continuous Learning:** Always expanding my skill set in software, data, and ML
+* **Impactful Projects:** Focusing on practical projects that solve real problems
+* **Collaboration:** Working effectively with teams to deliver value
