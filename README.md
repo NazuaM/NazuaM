@@ -13,7 +13,7 @@ I’m a dedicated and curious software enthusiast with hands-on experience in **
 * **Frontend Development:** React, JavaScript, HTML5, CSS3, Tailwind CSS
 * **Data Analysis & Visualization:** Python (pandas, matplotlib), Tableau
 * **Machine Learning:** Python (scikit-learn), basic predictive modeling
-* **Tools & Practices:** Git/GitHub, Vite, ESLint, responsive design
+* **Tools & Practices:** Git/GitHub, Vite, responsive design
 
 ## Portfolio Highlights
 
